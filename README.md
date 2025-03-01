@@ -12,8 +12,7 @@ I'm currently working on health activity monitoring using ECG, PPG, and sweat an
 ![](https://nirzak-streak-stats.vercel.app/?user=chpk142&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=chpk142&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
+
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=chpk142&limit=5&theme=prussian&combine_all_yearly_contributions=true)
